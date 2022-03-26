@@ -1,0 +1,20 @@
+.menu>li{
+	position:relative;
+	float:left;
+}
+.m1{
+	left:1300px;
+	top:-90px;
+}
+.m2{
+	left:1400px;
+	top:-90px;
+}
+.m3{
+	left:1500px;
+	top:-90px;
+}
+.logotyp{
+	width:150px;
+	height:83px;
+}

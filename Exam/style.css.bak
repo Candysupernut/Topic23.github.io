@@ -1,0 +1,23 @@
+.menu>li{
+	position:relative;
+	float:left;
+}
+.m1{
+	left:1300px;
+	top:-90px;
+	background-image: linear-gradient(45deg, #FF4500, #FFD700);
+}
+.m2{
+	left:1400px;
+	top:-90px;
+	background-image: linear-gradient(45deg, #FF4500, #FFD700);
+}
+.m3{
+	left:1500px;
+	top:-90px;
+	background-image: linear-gradient(45deg, #FF4500, #FFD700);
+}
+.logotyp{
+	width:150px;
+	height:83px;
+}
