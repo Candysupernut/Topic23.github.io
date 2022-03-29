@@ -18,3 +18,41 @@
 	width:150px;
 	height:83px;
 }
+.t1{
+	font-size:40px;
+	text-align:center;
+}
+.t2{
+	font-size:20px;
+}
+.naruto{
+	height:700px;
+	width:500px;
+	float:left;
+	margin-right: 20px;
+	box-shadow: 0 2px 30px black;
+}
+.technic{
+	height:270px;
+	width:350px;
+	float:right;
+	margin-left: 20px;
+	box-shadow: 0 2px 30px black;
+}
+hr{
+	height:50px;
+	width:100%;
+	background-image: linear-gradient(45deg, #FF4500, #FFD700);
+}
+.link{
+	left:850px;
+	position:relative;
+	color:indigo;
+}
+body{
+	background-image: linear-gradient(45deg, #FFA500, #C71585);
+}
+.tttr{
+	color:#000080;
+	font-weight: Bold;
+}
